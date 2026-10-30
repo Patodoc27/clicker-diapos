@@ -4,6 +4,7 @@
   "description": "Presentá en la compu o en el celu y pasá las diapositivas con un toque.",
   "start_url": "./index.html",
   "display": "standalone",
+  "orientation": "portrait",
   "background_color": "#0b0d14",
   "theme_color": "#0aa9a2",
   "icons": [
